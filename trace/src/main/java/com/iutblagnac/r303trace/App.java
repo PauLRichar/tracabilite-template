@@ -12,7 +12,7 @@ public class App {
     }
 
     public static String hello() {
-        return "Hello World!";
+        return "Hello World! Ce message est plus expressif mtn";
     }
 
     public static String hello(String param) {
