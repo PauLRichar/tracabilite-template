@@ -2,7 +2,7 @@ package com.iutblagnac.r303trace;
 
 /**
  * Hello world!
- *
+ * Modification pour faire la merge request du tp3
  */
 public class App {
 
